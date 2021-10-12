@@ -30,7 +30,7 @@ body {
 }
 
 #corridor {
-	width: 100%;
+	width: 90%;
 	height: auto;
 }
 
@@ -95,7 +95,7 @@ body {
 	color: #FFF;
 	font-size: 16px;
 	border-left: solid 10px #C00;
-	background: #F90 url(../images/main_h2.jpg) right top repeat-y;
+	background-color: #F90;
 }
 #main p {
 	margin: 0;
